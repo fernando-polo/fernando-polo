@@ -1,4 +1,4 @@
-# Hi there 🤌🏽
+# Hi there! 🤌🏽
 I'm Fernando, a Fullstack Developer based in Querétaro, México.
 
 I enjoy building and creating whatever comes to my mind.
