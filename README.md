@@ -12,7 +12,7 @@ I'm currently working on my portfolio and continuously improving my skills as a 
 
 As you can see in my repositories, my main technologies are:
 
-- Frontend: HTML, CSS3, JavaScript (ES6+), React Native, SCSS
+- Frontend: HTML, CSS3, SCSS, JavaScript (ES6+), React
 - Backend: Python (core, FastAPI), PHP (Laravel), C#
 - Mobile & XR: Swift, visionOS, Unity
 - Design & 3D: Figma, UX/UI, Blender
